@@ -1,7 +1,7 @@
-#Multiple Linear Regression Project
+# Multiple Linear Regression Project
 This project showcases the implementation of multiple linear regression in Python using Jupyter Notebook. Multiple linear regression is a vital machine learning algorithm employed to predict a numerical target variable based on multiple input features.
 
-##Overview
+## Overview
 In this project, we will:
 Explore a dataset.
 Preprocess the data.
@@ -25,7 +25,7 @@ pip install pandas
 pip install matplotlib
 pip install scikit-learn
 ```
-##Usage
+## Usage
 
 Step 1: Clone this repository:
 ```bash
@@ -36,7 +36,7 @@ Step 2: Launch Jupyter Notebook.
 Step 2: Open the multiplelinearregression.ipynb notebook.
 step3: Follow the step-by-step instructions in the notebook to comprehend and implement multiple linear regression.
 
-##Files
+## Files
 
 multiplelinearregression.ipynb: Jupyter Notebook containing the project code and explanations.
 Startups.csv: The dataset used for this project.
