@@ -41,7 +41,7 @@ step3: Follow the step-by-step instructions in the notebook to comprehend and im
 multiple_linear_regression.ipynb.ipynb: Jupyter Notebook containing the project code and explanations.
 Startups.csv: The dataset used for this project.
 
-##Credits
+## Credits
 This project was inspired by the "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]" course on Udemy, created by:
 
 Kirill Eremenko
