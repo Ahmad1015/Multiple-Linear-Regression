@@ -44,10 +44,10 @@ Startups.csv: The dataset used for this project.
 ## Credits
 This project was inspired by the "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]" course on Udemy, created by:
 
-Kirill Eremenko
-Hadelin de Ponteves
-SuperDataScience Team
-Ligency Team
+Kirill Eremenko<br>
+Hadelin de Ponteves<br>
+SuperDataScience Team<br>
+Ligency Team<br>
 <br>
 I acknowledge and thank the instructors and teams behind this course for providing valuable knowledge and resources. You can find the course on Udemy at https://www.udemy.com/course/machinelearning/.
 
