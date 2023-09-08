@@ -42,13 +42,14 @@ multiple_linear_regression.ipynb.ipynb: Jupyter Notebook containing the project 
 Startups.csv: The dataset used for this project.
 
 ## Credits
+
 This project was inspired by the "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]" course on Udemy, created by:
 
-Kirill Eremenko<br>
-Hadelin de Ponteves<br>
-SuperDataScience Team<br>
-Ligency Team<br>
-<br>
+- Kirill Eremenko
+- Hadelin de Ponteves
+- SuperDataScience Team
+- Ligency Team
+
 I acknowledge and thank the instructors and teams behind this course for providing valuable knowledge and resources. You can find the course on Udemy at https://www.udemy.com/course/machinelearning/.
 
 Feel free to explore and modify the code to suit your needs and continue your learning journey in machine learning and data science.
