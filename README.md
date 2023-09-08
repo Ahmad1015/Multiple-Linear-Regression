@@ -33,10 +33,10 @@ git clone https://github.com/Ahmad1015/Multiple-Linear-Regression.git
 cd Multiple-Linear-Regression
 ```
 Step 2: Launch Jupyter Notebook.
-Step 2: Open the multiplelinearregression.ipynb notebook.
+Step 2: Open the multiple_linear_regression.ipynb.ipynb notebook.
 step3: Follow the step-by-step instructions in the notebook to comprehend and implement multiple linear regression.
 
 ## Files
 
-multiplelinearregression.ipynb: Jupyter Notebook containing the project code and explanations.
+multiple_linear_regression.ipynb.ipynb: Jupyter Notebook containing the project code and explanations.
 Startups.csv: The dataset used for this project.
